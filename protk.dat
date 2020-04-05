@@ -1,0 +1,6 @@
+NAME Dimension
+EXEC_FILE C:\Dimension\Dimension\x64\Release\Dimension.dll
+TEXT_DIR C:\Dimension\text
+STARTUP    dll
+REVISION   Creo4.0
+END
